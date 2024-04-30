@@ -1,0 +1,57 @@
+div {
+    
+    text-align: center;
+    width:300px;
+    height:350px;
+    margin:auto;
+    border-style:solid;
+    border-color:rgb(171, 165, 165);
+    background-color:white;
+    margin-top:15%;
+    box-shadow:2cm;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fundo-cor{
+    background-color: rgb(70, 235, 141);
+}
+
+.text{
+    width:200px;
+    height:40px;
+    border-style:none;
+    background-color: rgb(238, 226, 226);   
+    margin-bottom:5%;
+}
+
+.pass{
+   
+    width:200px;
+    height:40px;
+    border-style:none;
+    background-color: rgb(238, 226, 226);
+   
+}
+
+.entrar{
+    width:200px;
+    height:40px;
+    background-color: rgb(70, 235, 141);
+    border-style:none;
+    margin-top:5%;
+    color:white;
+    
+}
+
+.cancelar{
+    width:200px;
+    height:40px;
+    margin:auto;
+    background-color:rgb(207, 196, 196);
+    border-style:none;
+    margin-top:5%;
+    color:white;
+}
